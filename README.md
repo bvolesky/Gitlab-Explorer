@@ -11,6 +11,10 @@ The tool takes in a query and searches all *public* projects and uses the result
 Just double-click the python script from anywhere to run.
 
 ## Usage
+1. Install Python from [Python Downloads](https://www.python.org/downloads/).
+2. Clone the Repository - ```git clone https://github.com/bvolesky/Gitlab-Explorer.git```
+3. Navigate to the Repository - ```cd <repository_folder>/Gitlab-Explorer```
+5. Run the App - ```python Gitlab_Explorer.py```
 
 ### Navigation:
 	On any screen you can type 'back' to go to the previous screen
