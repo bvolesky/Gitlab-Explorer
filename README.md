@@ -1,6 +1,6 @@
 ![Loading Image](/src/assets/images/mapping_selection.png)
 
-# Gitlab-Explorer
+# Gitlab Explorer
 Used to pull Gitlab projects and branches from older on-premise installation (tested on GitLab 6.4.3)
 
 ## Learnings
